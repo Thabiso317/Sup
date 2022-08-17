@@ -1,0 +1,45 @@
+﻿<Window x:Class="DimensionCalculator.Exchange"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dimension Calculator" Height="513" Width="322" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Menu x:Name="menuBar" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="306" Background="#FFF0F0F0" FontSize="16">
+            <MenuItem x:Name="modeItem" Header="_Mode">
+                <MenuItem x:Name="basicSubItem" Header="Basic" IsCheckable="True" Click="Basic_Click"/>
+                <Separator />
+                <MenuItem x:Name="interestSubItem" Header="Interest Rate" IsCheckable="True" IsChecked="False" Click="Interest_Click"/>
+                <Separator />
+                <MenuItem x:Name="exchangeSubItem" Header="Exchange Rate" IsCheckable="True" IsChecked="true" Click="Exchange_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="helpItem" Header="_Help">
+                <MenuItem x:Name="manualSubItem" Header="User Manual" Click="Manual_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="aboutItem" Header="About" Click="About_Click"/>
+        </Menu>
+        <Label x:Name="fromLabel" Content="From:" HorizontalAlignment="Left" Margin="14,76,0,0" VerticalAlignment="Top" Width="41"/>
+        <ComboBox x:Name="fromComboBox" HorizontalAlignment="Left" Margin="60,80,0,0" VerticalAlignment="Top" Width="183" ToolTip="Choose Currency" BorderBrush="Black" >
+            <ComboBoxItem x:Name="ZAR1" Content="South African Rand - R" HorizontalAlignment="Left" Width="181" Selected="ZAR1_Selected"/>
+            <ComboBoxItem x:Name="USD1" Content="United States Dollar - $" HorizontalAlignment="Left" Width="181" Selected="USD1_Selected"/>
+            <ComboBoxItem x:Name="JPY1" Content="Japanese Yen - ¥" HorizontalAlignment="Left" Width="181" Selected="JPY1_Selected"/>
+            <ComboBoxItem x:Name="BWP1" Content="Botswana Pula - P" HorizontalAlignment="Left" Width="181" Selected="BWP1_Selected"/>
+            <ComboBoxItem x:Name="GBP1" Content="Pound Sterling - £" HorizontalAlignment="Left" Width="181" Selected="GBP1_Selected"/>
+        </ComboBox>
+        <Label x:Name="amountLabel" Content="Amount:" HorizontalAlignment="Left" Margin="14,123,0,0" VerticalAlignment="Top" Width="59"/>
+        <TextBox x:Name="amountTextBox" PreviewTextInput="checkText" HorizontalAlignment="Left" Height="23" Margin="101,126,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142" BorderBrush="Black" GotFocus="amountTextBox_Click" ToolTip="Enter amount to convert"/>
+        <Label x:Name="toLabel" Content="To:" HorizontalAlignment="Left" Margin="14,174,0,0" VerticalAlignment="Top" Width="41"/>
+        <Label x:Name="exRateLabel" Content="Exchange Rate:" HorizontalAlignment="Left" Margin="14,232,0,0" VerticalAlignment="Top" Width="92"/>
+        <TextBox x:Name="rateTextBox" PreviewTextInput="checkText" HorizontalAlignment="Left" Height="23" Margin="111,235,0,0" TextWrapping="Wrap" Text="Optional" VerticalAlignment="Top" Width="132" BorderBrush="Black" GotFocus="rateTextBox_Click" ToolTip="Enter Optional Exchange rate"/>
+        <Button x:Name="convertButton" Content="Convert" HorizontalAlignment="Left" Margin="14,291,0,0" VerticalAlignment="Top" Width="59" Click="convertButton_Click" ToolTip="Click to convert"/>
+        <TextBox x:Name="resultTextBox" HorizontalAlignment="Left" Height="23" Margin="101,288,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="142" Focusable="False" ToolTip="Converted Amount"/>
+        <ComboBox x:Name="toComboBox" HorizontalAlignment="Left" Margin="60,178,0,0" VerticalAlignment="Top" Width="183" ToolTip="Choose Currency" BorderBrush="Black">
+            <ComboBoxItem x:Name="ZAR2" Content="South African Rand - R" HorizontalAlignment="Left" Width="181" Selected="ZAR2_Selected"/>
+            <ComboBoxItem x:Name="USD2" Content="United States Dollar - $" HorizontalAlignment="Left" Width="181" Selected="USD2_Selected"/>
+            <ComboBoxItem x:Name="JPY2" Content="Japanese Yen - ¥" HorizontalAlignment="Left" Width="181" Selected="JPY2_Selected"/>
+            <ComboBoxItem x:Name="BWP2" Content="Botswana Pula - P" HorizontalAlignment="Left" Width="181" Selected="BWP2_Selected"/>
+            <ComboBoxItem x:Name="GBP2" Content="Pound Sterling - £" HorizontalAlignment="Left" Width="181" Selected="GBP2_Selected"/>
+        </ComboBox>
+        <TextBlock x:Name="fromCurrencyLabel" HorizontalAlignment="Left" Margin="86,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21" Width="15"/>
+        <TextBlock x:Name="toCurrencyLabel" HorizontalAlignment="Left" Margin="86,288,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="21" Width="15"/>
+        <TextBlock x:Name="ErrorField" HorizontalAlignment="Left" Margin="0,25,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="306" Height="32" Foreground="Red"/>
+    </Grid>
+</Window>

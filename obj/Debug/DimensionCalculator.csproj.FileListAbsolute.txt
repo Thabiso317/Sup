@@ -1,0 +1,87 @@
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.exe.config
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.exe
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.pdb
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\Splash.baml
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\Splash.g.cs
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\App.g.cs
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator_MarkupCompile.cache
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.g.resources
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.Properties.Resources.resources
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.csproj.GenerateResource.Cache
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.exe
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.pdb
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\Standard.baml
+c:\users\magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\Standard.g.cs
+C:\Users\Magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\Exchange.baml
+C:\Users\Magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\Exchange.g.cs
+C:\Users\Magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\Interest.baml
+C:\Users\Magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\Interest.g.cs
+C:\Users\Magash47\documents\visual studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.About.resources
+C:\Users\Magash47\Documents\Visual Studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.csprojAssemblyReference.cache
+C:\Users\Magash47\Documents\Visual Studio 2013\Projects\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.exe.config
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.exe
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.pdb
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.csprojAssemblyReference.cache
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Exchange.baml
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Interest.baml
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Splash.baml
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Standard.baml
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Exchange.g.cs
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Interest.g.cs
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Splash.g.cs
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Standard.g.cs
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\App.g.cs
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator_MarkupCompile.cache
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.g.resources
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.About.resources
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.Properties.Resources.resources
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.csproj.GenerateResource.cache
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.exe
+C:\Users\Moraswi\Downloads\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.pdb
+E:\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.exe.config
+E:\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.exe
+E:\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.pdb
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.exe.config
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.exe
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.pdb
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.exe
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.pdb
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Exchange.baml
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Interest.baml
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Splash.baml
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Standard.baml
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Exchange.g.cs
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Interest.g.cs
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Splash.g.cs
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Standard.g.cs
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\App.g.cs
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator_MarkupCompile.cache
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.g.resources
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.About.resources
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.Properties.Resources.resources
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.csproj.GenerateResource.Cache
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.exe.manifest
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.application
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.exe.manifest
+C:\Users\New User\Desktop\Moraswi\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.application
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\bin\Debug\DimensionCalculator.exe.config
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.exe
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.pdb
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Exchange.baml
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Interest.baml
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Splash.baml
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Standard.baml
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Exchange.g.cs
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Interest.g.cs
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Splash.g.cs
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\Standard.g.cs
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\App.g.cs
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator_MarkupCompile.cache
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.g.resources
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.About.resources
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.Properties.Resources.resources
+C:\Users\MORASWI\Documents\MORASWI\My Stuff\DimensionCalculator(1)\DimensionCalculator\DimensionCalculator\obj\Debug\DimensionCalculator.csproj.GenerateResource.Cache

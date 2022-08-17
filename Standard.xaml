@@ -1,0 +1,46 @@
+﻿<Window x:Class="DimensionCalculator.Standard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dimension Calculator" Height="513" Width="313" Icon="Images/dcicon.png" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" KeyDown="keyboardKeyUp">
+    <Grid>
+        <Button x:Name="CE" Content="CE" HorizontalAlignment="Left" Margin="0,119,0,0" VerticalAlignment="Top" Width="73" Click="CE_Click" Height="58" BorderBrush="White" Background="White" UseLayoutRounding="False" Focusable="False" />
+        <Button x:Name="C" Content="C" HorizontalAlignment="Left" Margin="73,119,0,0" VerticalAlignment="Top" Width="73" Click="C_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="backSpace" Content="&lt;--" HorizontalAlignment="Left" Margin="146,119,0,0" VerticalAlignment="Top" Width="73" Click="backSpace_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="percentage" Content="%" HorizontalAlignment="Left" Margin="0,177,0,0" VerticalAlignment="Top" Width="73" Click="percentage_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="squareRoot" Content="√" HorizontalAlignment="Left" Margin="73,177,0,0" VerticalAlignment="Top" Width="73" Click="squareRoot_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="remainder" Content="Remainder" HorizontalAlignment="Left" Margin="146,177,0,0" VerticalAlignment="Top" Width="73"  Height="58" BorderBrush="White" Background="White" Click="remainder_Click" Focusable="False"/>
+        <Button x:Name="division" Content="÷" HorizontalAlignment="Left" Margin="219,177,0,0" VerticalAlignment="Top" Width="75" Click="dividion_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="seven" Content="7" HorizontalAlignment="Left" Margin="0,235,0,0" VerticalAlignment="Top" Width="73" Click="seven_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="eight" Content="8" HorizontalAlignment="Left" Margin="73,235,0,0" VerticalAlignment="Top" Width="73" Click="eight_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="nine" Content="9" HorizontalAlignment="Left" Margin="146,235,0,0" VerticalAlignment="Top" Width="73" Click="nine_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="multiplication" Content="×" HorizontalAlignment="Left" Margin="219,235,0,0" VerticalAlignment="Top" Width="75" Click="multiplication_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="four" Content="4" HorizontalAlignment="Left" Margin="0,293,0,0" VerticalAlignment="Top" Width="73" Click="four_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="five" Content="5" HorizontalAlignment="Left" Margin="73,293,0,0" VerticalAlignment="Top" Width="73" Click="five_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="six" Content="6" HorizontalAlignment="Left" Margin="146,293,0,0" VerticalAlignment="Top" Width="73" Click="six_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="subtraction" Content="-" HorizontalAlignment="Left" Margin="219,293,0,0" VerticalAlignment="Top" Width="75" Click="subtraction_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="one" Content="1" HorizontalAlignment="Left" Margin="0,351,0,0" VerticalAlignment="Top" Width="73" Click="one_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="two" Content="2" HorizontalAlignment="Left" Margin="73,351,0,0" VerticalAlignment="Top" Width="73" Click="two_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="three" Content="3" HorizontalAlignment="Left" Margin="146,351,0,0" VerticalAlignment="Top" Width="73" Click="three_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="addition" Content="+" HorizontalAlignment="Left" Margin="219,351,0,0" VerticalAlignment="Top" Width="75" Click="addition_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="zero" Content="0" HorizontalAlignment="Left" Margin="73,409,0,0" VerticalAlignment="Top" Width="73" Click="zero_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="decimal" Content="•" HorizontalAlignment="Left" Margin="146,409,0,0" VerticalAlignment="Top" Width="73" Click="decimal_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Button x:Name="equalTo" Content="=" HorizontalAlignment="Left" Margin="219,409,0,0" VerticalAlignment="Top" Width="75" Click="equalTo_Click" Height="58" BorderBrush="White" Background="White" Focusable="False"/>
+        <Menu x:Name="menuBar" HorizontalAlignment="Left" Height="25" VerticalAlignment="Top" Width="297" Background="#FFF0F0F0" FontSize="16">
+            <MenuItem x:Name="modeItem" Header="_Mode">
+                <MenuItem x:Name="basicSubItem" Header="Basic" IsCheckable="True" IsChecked="True" Click="Basic_Click"/>
+                <Separator />
+                <MenuItem x:Name="interestSubItem" Header="Interest Rate" IsCheckable="True" IsChecked="False" Click="Interest_Click"/>
+                <Separator />
+                <MenuItem x:Name="exchangeSubItem" Header="Exchange Rate" IsCheckable="True" IsChecked="False" Click="Exchange_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="helpItem" Header="_Help">
+                <MenuItem x:Name="manualSubItem" Header="User Manual" Click="Manual_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="aboutItem" Header="About" Click="About_Click"/>
+        </Menu>
+        <TextBlock x:Name="ErrorField" HorizontalAlignment="Left" Margin="3,25,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="291" Foreground="Red" TextAlignment="Center"/>
+        <TextBlock x:Name="calculationScreen" HorizontalAlignment="Left" Margin="3,46,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="291" Foreground="#FF515151" Height="25" TextAlignment="Right" FontFamily="Arial Rounded MT Bold" FontSize="18"/>
+        <TextBlock x:Name="IOScreen" HorizontalAlignment="Left" Margin="0,76,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="294" Foreground="Black" Height="43" TextAlignment="Right" FontSize="36" FontFamily="Arial Rounded MT Bold"/>
+
+    </Grid>
+</Window>

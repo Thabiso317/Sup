@@ -1,0 +1,23 @@
+﻿<Window x:Class="DimensionCalculator.Splash"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dimension Calculator" Height="450" Icon="Images/dcicon.png" Width="300" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid Margin="0,0,2,0">
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/dcicon.png" Stretch="None"/>
+        </Grid.Background>
+        <Label x:Name="DCLabel" Content="Dimension Calculator" HorizontalAlignment="Left" VerticalAlignment="Top" Width="290" FontSize="26" FontFamily="Arial Rounded MT Bold"/>
+        <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="31" Margin="148,389,0,0" VerticalAlignment="Top" Width="150" Foreground="Black" Background="White" BorderThickness="2"/>
+        <ProgressBar x:Name="progressBar_Copy" HorizontalAlignment="Left" Height="31" Margin="2,389,0,0" VerticalAlignment="Top" Width="146" Foreground="Black" Background="White" BorderThickness="2" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="-1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+
+    </Grid>
+</Window>
